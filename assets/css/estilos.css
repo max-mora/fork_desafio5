@@ -18,7 +18,11 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
+  
 }
+#Mis-trabajos {background-color: #197278;
+    color: #ffffff;}
+
 
 /* Contacto */
 
@@ -37,3 +41,26 @@ body {
   }
 
 }
+#Mis-trabajos {
+    background-color: #197278; 
+    color: #ffffff;
+}
+
+
+#Mis-trabajos .card {
+    background-color: transparent;
+    border: none; 
+    color: #ffffff; 
+}
+
+
+#Mis-trabajos .btn-outline-info {
+    border-color: #ffffff;
+    color: #ffffff;
+}
+
+#Mis-trabajos .btn-outline-info:hover {
+    background-color: #ffffff;
+    color: #197278;
+}
+
